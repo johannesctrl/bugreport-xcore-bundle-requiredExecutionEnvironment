@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ExamplePlugin
+Bundle-SymbolicName: examplePlugin
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: examplePlugin
+Bundle-RequiredExecutionEnvironment: JavaSE-17
